@@ -1,4 +1,65 @@
 
-body { 
-    background: url("../images/background.png")
+
+.tabs{
+    text-align: right;
+    margin-right: 220px;
+    float: right
+}
+.name{
+    margin-left: 220px;
+    height: 90px;
+    width: 250px;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #fffefc;
+    vertical-align: middle;
+    line-height: 90px
+
+}
+.head{
+height: 90x;
+width: 1400px;
+background-color: grey
+
+}
+.header{
+    background-color:white;
+    height:90px;
+    width: 1400px;
+    border-bottom: 3px solid grey
+}
+.body{
+    background-color: black;
+    height: 650px;
+    width: 1400px
+}
+#container{
+    background-color: blue;
+    width: 1400px;
+    height: 650px;
+  
+}
+    .content{
+    background-color: aqua;
+    height: 960px;
+    Width: 360px
+}
+#footer {
+    color: #fff;
+    background-color: grey;
+    position: absolute;
+    bottom: 0;
+    width: 1400px;
+    padding: 10px;
+    height: 45px;
+    border-top: 10px solid #4aaaa5
+
+}
+#footer h4 {
+   text-align: center;
+
+}
+body{
+    background-color: black;
+   
 }
