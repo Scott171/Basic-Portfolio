@@ -1,0 +1,149 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    background-color:white;
+    height:90px;
+    width: 100%;
+    border-bottom: 3px solid grey
+}
+
+.name{
+    margin-left: 220px;
+    margin-bottom: 0px;
+    height: 90px;
+    width: 250px;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #fffefc;
+    vertical-align: middle;
+    line-height: 90px;
+    float: left;
+    padding:0px;
+    position: relative;
+    top: 0px
+}
+
+.tabs{
+    text-align: right;
+    margin-right: 220px;
+    float: right;
+    position: relative;
+    right: 20px;
+    top: 30px;
+    color: grey;
+    font-size: 16px;
+
+}
+body {
+    background-color: black
+}
+
+#full {
+    background-image: url("assets/images/background.png");
+    height: 650px;
+    width: 100%;
+
+}
+#footer {
+    color: #fff;
+    background-color: grey;
+    position: relative;
+    bottom: 0;
+    width: 98.6%;
+    padding: 40px 10px 10px 10px;
+    height: 10px;
+    border-top: 10px solid #4aaaa5;
+    margin: 0px;
+    text-align: center
+
+}
+.index {
+    position: relative;
+    top: 40px;
+    width: 960px;
+    height: 460px;
+    padding: 20px;
+    margin-left: 220px;
+    color: grey;
+    background: white;
+    border: 1px solid grey;
+
+  }
+
+  #about{
+      border-bottom: 2px solid grey;
+      width: 900px;
+      padding: 20px;
+      margin: 10px;
+    font-size: 30px;
+    color: #4aaaa5
+  }
+  .dog {
+      float: left;
+      margin: 20px;
+  }
+
+    .contact {
+        position: relative;
+        top: 40px;
+        width: 960px;
+        height: 500px;
+        padding: 20px;
+        margin-left: 220px;
+        color: grey;
+        background: white;
+        border: 1px solid grey;
+    
+      }
+      .portfolio {
+        position: relative;
+        top: 40px;
+        width: 960px;
+        height: 520px;
+        padding: 20px;
+        margin-left: 220px;
+        color: grey;
+        background: white;
+        border: 1px solid grey;
+    
+      }
+
+      textarea {
+        width: 922px;
+        height: 150px;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+        background-color: #f8f8f8;
+        font-size: 15px;
+        margin-left:15px;
+        background-color:white;
+    }
+    .submit{
+        Background-color: #4aaaa5;
+        color:white;
+        width: 90px;
+        Height: 10pxpx;
+        Text-align: center;
+        Padding: 10px;
+        font-size: 25px;
+        margin: 10px;
+
+    
+    }
+    input[type=text] {
+        width: 900px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        resize: vertical;
+        margin-left:15px;
+        font-size:15px;
+
+    }
+   
