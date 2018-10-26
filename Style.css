@@ -51,8 +51,8 @@ body {
 
 }
 #footer {
-    color: #fff;
-    background-color: #cccccc;
+    color: #cccccc;
+    background-color: #666666;
     position: relative;
     bottom: 0;
     width: 98.6%;
@@ -60,7 +60,9 @@ body {
     height: 10px;
     border-top: 10px solid #4aaaa5;
     margin: 0px;
-    text-align: center
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:11px;
 
 }
 .index {
